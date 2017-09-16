@@ -1,0 +1,49 @@
+.social-tools-wrapper {
+  display: none;
+}
+
+#right-rail {
+  display: none;
+}
+
+.layout_article #pb-root #main-content {
+  width: 100%;
+  background-image: none !important;
+  padding-right: 0 !important;
+}
+
+div[class^="top-sharebar"] {
+  display: none;
+}
+
+div[data-feature-id="page/newsletter-inLine"] {
+  display: none;
+}
+
+#topper-headline-wrapper {
+  width: 100%;
+}
+
+/* bar at bottom with comments + share tools */
+.chain-wrapper {
+  display: none;
+}
+
+#comments {
+  display: none;
+}
+
+/*** ad removal ***/
+
+.wp-inline-bb{
+  display: none;
+}
+
+#top-furniture{
+  display: none;
+}
+
+/*** Adding stuff ***/
+#top-content{
+  margin-top: 15px;
+}
