@@ -47,3 +47,7 @@ div[data-feature-id="page/newsletter-inLine"] {
 #top-content{
   margin-top: 15px;
 }
+
+.article-body{
+  max-width: 575px; /* Should come out to about 70-75 characters per line */
+}
