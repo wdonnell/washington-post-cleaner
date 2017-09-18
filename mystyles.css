@@ -49,5 +49,5 @@ div[data-feature-id="page/newsletter-inLine"] {
 }
 
 .article-body{
-  max-width: 575px; /* Should come out to about 70-75 characters per line */
+  max-width: 575px !important; /* Should come out to about 70-75 characters per line */
 }
